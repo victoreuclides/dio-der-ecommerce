@@ -2,11 +2,9 @@
 
 ### Esse projeto foi desenvolvido com o objetivo de praticar os conceitos de modelagem de dados aprendidos no **Bootcamp Randstad - Análise de Dados (2025)** da DIO
 
-O _DER_ ilustra a modelagem do banco de dados de um ecommerce fictício. Ele foi feito na plataforma _"DMBL"_. 
+O _DER_ ilustra a modelagem do banco de dados de um ecommerce fictício. Ele foi feito na plataforma [_dbdiagram.io_](https://dbdiagram.io/home). 
 
-Essa plataforma reconhece o código digitado e cria o diagrama a partir dele. 
-
-## Código: 
+## Aqui segue o código de produção do diagrama: 
 
 ```
 Table Cliente {
